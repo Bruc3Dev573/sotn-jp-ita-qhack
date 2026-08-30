@@ -1,5 +1,7 @@
 # Castlevania: Symphony of the Night - JP-ITA QHack v1.3
 
+**English** | [Italiano](README.it.md)
+
 Patch for the Japanese Rev 2 release of Castlevania: Symphony of the Night.
 
 This patch combines the Italian translation v1.0 with the QHack v1.3 improvements. The original game is not included.
@@ -68,6 +70,8 @@ SHA-256 62ff138defcd11d2b192b16407c3acffa5d33a5fc6b508ac277de2329e7b0853
 
 - [QHack v1.3](https://www.romhacking.net/hacks/3606/) by paul_met
 - [Italian translation v1.0](https://www.romhacking.net/translations/1171/) by Gemini
+
+Attribution and redistribution terms for original project material are in [`NOTICE`](NOTICE).
 
 ## Disclaimer
 
