@@ -58,6 +58,12 @@ SHA-256 62ff138defcd11d2b192b16407c3acffa5d33a5fc6b508ac277de2329e7b0853
 - loading rooms shown in white on the map
 - stereo sound enabled by default
 
+## Screenshots
+
+| Fullscreen gameplay | Italian file menu |
+|:---:|:---:|
+| ![Fullscreen gameplay](docs/screenshots/fullscreen-gameplay.png) | ![Italian file menu](docs/screenshots/italian-status.png) |
+
 ## Credits
 
 - [QHack v1.3](https://www.romhacking.net/hacks/3606/) by paul_met
