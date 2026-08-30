@@ -1,0 +1,10 @@
+*.bin
+*.cue
+*.chd
+*.iso
+*.img
+*.mcd
+*.mcr
+*.pbp
+*.PBP
+.DS_Store

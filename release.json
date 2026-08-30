@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "name": "Castlevania SotN JP-ITA QHack v1.3",
+  "serial": "SLPM_860.23",
+  "base": {
+    "track1_md5": "5021f600f109703170486dda1f0f86c1",
+    "track2_md5": "3ea3346af023f84b1413c975d3c530fa"
+  },
+  "patch": {
+    "file": "patches/jp-ita-qhack-v1.3.ppf",
+    "sha256": "62ff138defcd11d2b192b16407c3acffa5d33a5fc6b508ac277de2329e7b0853"
+  },
+  "result": {
+    "track1_sha256": "d4d2e2e8eb60147e7efba79e78f9f1fc4383ccd59f280be7a4a39aa646effbbc"
+  }
+}
